@@ -84,7 +84,7 @@ Injected a custom toast with HTML coloring:
 
 ```
 
-Made With ❤ From MIRZTHAX
+Made With ❤ From Mirzadev
 
 ```
 
