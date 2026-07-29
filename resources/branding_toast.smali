@@ -29,10 +29,10 @@
     # characters are Unicode Mathematical Bold letters that render 
     # as 𝐌𝐈𝐑𝐙𝐓𝐇𝐀𝐗 (bold capital letters).
     #
-    # You can replace with your own brand names.
+    # You can replace "MIRZTHAX" with your own brand names.
     # Just make sure to escape single quotes in the HTML attribute.
 
-    const-string v0, "Your Branding Text"
+    const-string v0, "Made With ❤ From <font color=\'#00FF00\'><b>\ud835\udc0c\ud835\udc08\ud835\udc11\ud835\udc19\ud835\udc13\ud835\udc07\ud835\udc00\ud835\udc17</b></font>"
 
     # --- STEP 2: Convert HTML string to Spanned text ---
     # 
@@ -105,5 +105,5 @@
 # - Toast messages are not clickable or interactive (passive display only)
 # 
 # ============================================================
-# CREDITS: MIRZTHAX & kmgppputz_
+# CREDITS: Mirzadev
 # ============================================================
