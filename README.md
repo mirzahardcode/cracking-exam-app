@@ -55,6 +55,8 @@ It covers common protection layers found in modern Android apps and how to analy
 cracking-exam-app/
 ├── docs/
 │   └── methodology.md          # High-level approach (no technical details)
+├── native/
+│   └── libnative.cpp           # Bypass LicenseCheck in Shared Object (C/C++)
 ├── patches/
 │   └── example_patch.smali     # Sample smali modification template
 ├── resources/
