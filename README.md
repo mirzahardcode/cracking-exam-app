@@ -65,6 +65,8 @@ cracking-exam-app/
 ├── firebase/
 │   ├── database_rules.json     # Firebase Realtime DB rules
 │   └── admin_panel.html        # Admin panel for key management
+├── scripts/
+│   └── auto-patcher.py
 └── README.md
 
 ```
