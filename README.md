@@ -145,9 +145,9 @@ Built a lightweight authentication layer using Firebase Realtime Database:
 · Project Link: github.com/mirzahardcode/cracking-exam-app
 
 ---
-## 👀 See the Releases Page to Download App you want!
+## 👀 See the Releases Page to Download App you want?
 
-Download the latest APK from the ([https://github.com/mirzahardcode/cracking-exam-app/releases])
+Download the latest APK from the [Releases Page](https://github.com/mirzahardcode/cracking-exam-app/releases/).
 
 ---
 
