@@ -44,6 +44,7 @@ It covers common protection layers found in modern Android apps and how to analy
 | **JADX** | Java decompilation |
 | **Firebase** | Backend authentication system |
 | **Termux** | Mobile reverse engineering |
+| **Ghidra** | C/C++ Inspection and reverse tool |
 
 ---
 
