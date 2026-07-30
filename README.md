@@ -64,9 +64,10 @@ cracking-exam-app/
 │   └── branding_toast.smali    # Custom toast injection
 ├── firebase/
 │   ├── database_rules.json     # Firebase Realtime DB rules
+│   ├── admin.js                # For Admin Uses
 │   └── admin_panel.html        # Admin panel for key management
 ├── scripts/
-│   └── auto-patcher.py
+│   └── auto-patcher.py         # Automated Python Patching
 └── README.md
 
 ```
