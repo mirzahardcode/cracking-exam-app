@@ -1,4 +1,4 @@
-# 🚀 Cracking Exam App - Research & Bypass Framework
+# Cracking Exam App - Research & Bypass Framework
 
 **Educational reverse engineering project — understanding Android app protection mechanisms**
 
@@ -48,27 +48,6 @@ It covers common protection layers found in modern Android apps and how to analy
 
 ---
 
-## 📂 Repository Structure
-
-```
-
-cracking-exam-app/
-├── docs/
-│   └── methodology.md          # High-level approach (no technical details)
-├── native/
-│   └── libnative.cpp           # Bypass LicenseCheck in Shared Object (C/C++)
-├── patches/
-│   └── example_patch.smali     # Sample smali modification template
-├── resources/
-│   ├── login_panel.xml         # Custom login UI
-│   └── branding_toast.smali    # Custom toast injection
-├── firebase/
-│   ├── database_rules.json     # Firebase Realtime DB rules
-│   ├── admin.js                # For Admin Uses
-│   └── admin_panel.html        # Admin panel for key management
-├── scripts/
-│   └── auto-patcher.py         # Automated Python Patching
-└── README.md
 
 ```
 
@@ -86,7 +65,7 @@ cracking-exam-app/
 
 ## 🔥 Custom Branding Integration
 
-Injected a custom toast with HTML coloring:
+Injected a custom toast with HTML/Smali coloring:
 
 ```
 
