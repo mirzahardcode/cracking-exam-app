@@ -48,11 +48,6 @@ It covers common protection layers found in modern Android apps and how to analy
 
 ---
 
-
-```
-
----
-
 ## 🧪 Approach (High-Level)
 
 1. **Reconnaissance** — Analyze app structure & protection layers
