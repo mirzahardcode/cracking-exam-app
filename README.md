@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Disclaimer
+## Disclaimer
 
 > **⚠️ FOR EDUCATIONAL & RESEARCH PURPOSES ONLY**
 >
@@ -20,7 +20,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 This project is a **documentation of my journey** reverse engineering a popular exam application.  
 It covers common protection layers found in modern Android apps and how to analyze them.
@@ -35,7 +35,7 @@ It covers common protection layers found in modern Android apps and how to analy
 
 ---
 
-## 🔧 Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -48,7 +48,7 @@ It covers common protection layers found in modern Android apps and how to analy
 
 ---
 
-## 🧪 Approach (High-Level)
+## Approach (High-Level)
 
 1. **Reconnaissance** — Analyze app structure & protection layers
 2. **Decompilation** — Extract smali code using apktool/MT Manager
@@ -58,7 +58,7 @@ It covers common protection layers found in modern Android apps and how to analy
 
 ---
 
-## 🔥 Custom Branding Integration
+## Custom Branding Integration
 
 Injected a custom toast with HTML/Smali coloring:
 
@@ -70,7 +70,7 @@ Made With ❤ From Mirzadev
 
 ---
 
-## 🗄️ Firebase Key System (Custom Addition)
+## Firebase Key System (Custom Addition)
 
 Built a lightweight authentication layer using Firebase Realtime Database:
 
@@ -95,7 +95,7 @@ Built a lightweight authentication layer using Firebase Realtime Database:
 
 ---
 
-📚 How to Use (General)
+ How to Use (General)
 
 1. Clone the repository
    ```bash
@@ -107,8 +107,7 @@ Built a lightweight authentication layer using Firebase Realtime Database:
 5. Test on emulator or physical device
 
 ---
-
-🚧 Future Plans
+ Future Plans
 
 · Automated patching tool
 · Support for more app types
@@ -117,10 +116,10 @@ Built a lightweight authentication layer using Firebase Realtime Database:
 
 ---
 
-📞 Contact & Support
+ Contact & Support
 
 · GitHub: mirzahardcode
-· Telegram: @mirzthaxx
+· Telegram: @mirzaadev
 · Project Link: github.com/mirzahardcode/cracking-exam-app
 
 ---
@@ -136,7 +135,7 @@ If you found this project useful, please give it a star ⭐!
 
 ---
 
-📜 License
+ License
 
 This project is licensed under the MIT License — see the LICENSE file for details.
 
