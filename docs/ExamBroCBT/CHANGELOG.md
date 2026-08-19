@@ -7,5 +7,5 @@
 - ✅ Iklan removed
 - ✅ Branding toast injected
 
-## [v6.5] - 2026-08-18
-- ✅ Initial bypass
+## [v6.5] - 2020-12-4
+- ✅ Released on Play Store
