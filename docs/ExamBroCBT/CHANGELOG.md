@@ -7,5 +7,5 @@
 - ✅ Iklan removed
 - ✅ Branding toast injected
 
-## [v6.5] - 2020-12-4
+## [v1.0] - 2020-12-4
 - ✅ Released on Play Store
