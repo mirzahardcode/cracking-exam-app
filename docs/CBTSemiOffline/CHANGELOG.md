@@ -4,7 +4,7 @@ All notable changes to this APK modification project.
 
 ---
 
-## [v3.0] - 2026-09-28
+## [v1.3] - 2026-09-27
 
 **Performance optimization, latest patch consolidation, minor bug fixes.**
 
