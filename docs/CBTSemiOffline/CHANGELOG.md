@@ -4,6 +4,51 @@ All notable changes to this APK modification project.
 
 ---
 
+## [v3.0] - 2026-09-28
+
+**Performance optimization, latest patch consolidation, minor bug fixes.**
+
+Version 3.0 is the most optimized release to date — reduced APK size, faster cold boot, and stability fixes across all retained patches.
+
+### ⚡ Optimization
+- **APK size reduced** — unused dex, resources, and native libs stripped (~15% smaller)
+- **Cold boot time improved** — native loader path optimized (`libmirzasec.so` I/O reduced)
+- **Memory footprint lowered** — WebView cache pre-allocation trimmed
+- **Battery drain fix** — background Handler wake-lock leak patched
+
+### 🔧 Latest Patch Set
+- All previous patches re-applied cleanly on top of v1.2_2 base
+
+### 🐛 Minor Bug Fixes
+- Toast branding no longer overlaps system UI on Android 14+
+- OnPause receiver crash regression fixed (rare `IllegalArgumentException` on some OEMs)
+- Fixed blank screen on certain WebView versions after screenshot flag removal
+- Minor typo cleanup in branding toast string
+
+### 📦 APK Info
+- Version Code: 12
+- Version Name: 1.3
+- Distribution: **Paid**
+- Base APK: CBT Semioffline (v1.2_2 upstream)
+
+### ⚠️ Notes
+- Requires native loader understanding for further RE (`libmirsecore.so`)
+- Compatible with Android 8.0 (API 26) and above
+- Do not redistribute — licensed users only
+
+### ✅ Retained Patches (from v1.2_2)
+- PairIP removal
+- Native dex loader
+- New Branding toast injected
+
+### 🆕 Added in v3.0
+- APK size optimization
+- Cold boot optimization
+- Battery drain fix
+- Minor UI bug fixes
+
+---
+
 ## [v1.2_2] - 2026-09-13
 
 **Architectural update — PairIP removal, native dex loader migration, monetization.**
